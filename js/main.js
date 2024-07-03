@@ -146,8 +146,8 @@ function sendEmail(){
 
 
 var typed = new Typed(".typing", {
-    strings: ["Web Developer","Android Ui Developer","Community Evangelist","DSA Learner", "Competitive Programmer"],
-    typeSpeed: 100,
+    strings: ["DSA Learner","Competitive Programmer","Data Science Enthusiast","Deep Learning Practitioner", "Machine Learning Developer","AI Researcher","Software Developer"],
+    typeSpeed: 50,
     backSpeed: 60,
     loop: true
   });
